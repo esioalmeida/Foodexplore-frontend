@@ -22,7 +22,7 @@ Para facilitar os testes da aplicação, disponibilizo estas contas de demonstra
 - Observação: Lembre-se de que estas são contas de demonstração e não devem ser usadas para fins de produção ou para armazenar informações sensíveis.
 
 ## 📱 Preview da Aplicação
-- Você pode experimentar a aplicação no ar através do seguinte link:
+- Você pode experimentar a aplicação no ar através do seguinte link: https://foodexplore-frontend.vercel.app/
 
 - **Acessar o Food Explorer:**
 
@@ -55,8 +55,8 @@ Para facilitar os testes da aplicação, disponibilizo estas contas de demonstra
 - A API Restful FoodExplorer foi projetado para ser uma ponte entre o Front-End e o Back-End do restaurante virtual fictício Food Explorer. Ao consumir essa API, o projeto será capaz de criar, listar, atualizar e deletar informações sobre usuários, pratos e favoritos, proporcionando aos usuários uma experiência completa e rica em recursos.
 
 **Como Configurar e Executar Localmente:**
-- Faça um pull do BackEnd: 
-- e do FrontEnd: 
+- Faça um pull do BackEnd: https://github.com/esioalmeida/Foodexplore-backend
+- e do FrontEnd: https://github.com/esioalmeida/Foodexplore-frontend
 
 - Logo em seguida configure e instale as dependencias do projeto para que ele funcione corretamente.
 - no BackEnd: execute o "npm install", "npm run migrate" e "npm run dev"

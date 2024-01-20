@@ -27,7 +27,7 @@ export function Home() {
   const [defaultData, setdefaultData] = useState([]);
   const [requests, setRequests] = useState([]);
 
-  const localhostImg = `${api.defaults.baseURL}files/`;
+  const localhostImg = `${api.defaults.baseURL}/files/`;
 
   function buttonEditDish(id) {
     navigate(`/editdish/${id}`);
